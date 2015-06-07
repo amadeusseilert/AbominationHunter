@@ -6,7 +6,6 @@ Grupo:
 - Amadeus Seilert
 - Victor Costa
 - Leo Sotto
-- Gabriel Bernardes?
 
 O JOGO:
 
